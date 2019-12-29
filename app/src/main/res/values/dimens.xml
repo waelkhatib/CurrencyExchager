@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="weight_right" type="dimen" format="float">0.55</item>
+    <dimen name="space">4dp</dimen>
+</resources>

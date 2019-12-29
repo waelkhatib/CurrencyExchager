@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Currency Exchanger</string>
+    <string name="amount">Amount</string>
+    <string name="enter_currency_amount">Enter Currency Amount</string>
+    <string name="provider">Provider</string>
+    <string name="currency">Currency</string>
+    <string name="convert">Convert</string>
+    <string name="empty_amount_error">Please enter amount of currency</string>
+    <string name="currency_input_error">The amount of currency must be positive decimal number</string>
+    <string name="select_currency_option">Please select currency option</string>
+    <string name="select_provider_option">Please select provider option</string>
+    <string name="select_currency">Select currency...</string>
+    <string name="select_provider">Select provider...</string>
+    <string name="connect_to_internet">Please connect to the internet</string>
+    <string name="some_error_occur">Some errors occured....please try again</string>
+</resources>
